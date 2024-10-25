@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_trailer_body_data : h22.scs.box.body
+{
+	name: "@@bs_dryvan@@ Halloween 2022"
+	price: 30000
+	unlock: 5
+	icon: "body/scs_box/dryvan"
+
+	size: (2.48, 2.715, 13.62)	# width, height, length (internal size of the body)
+	total_size: (2.55, 4.0, 13.62)	# width, height, length (size of the body + chassis)
+
+	volume: 87
+	body_type: dryvan
+
+	mass: 1500
+}
+}
